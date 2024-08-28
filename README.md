@@ -6,6 +6,7 @@ The goal for our project was to create an IOT device that enhances your sleep. M
 
 ## Implementation
 Photon Redboard provides a built-in WiFi module to connect the board to the Internet. We connected buttons, sensors and an LCD screen to create the smart sleep tracker.
-
+<p align="center">
+  <img src="https://github.com/trums99/SmartSleepTracker/blob/master/images/SmartSleepTrackerArchitecture.png" width="700px"/>
 ## How to use this program
 https://drive.google.com/file/d/1RvpC8PWvsbB4JY0AhXD6wioGA6FRhzqC/view
